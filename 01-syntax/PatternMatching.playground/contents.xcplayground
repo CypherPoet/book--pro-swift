@@ -5,5 +5,6 @@
         <page name='switching-on-tuples'/>
         <page name='looping'/>
         <page name='matching-optionals'/>
+        <page name='matching-enums-and-associated-values'/>
     </pages>
 </playground>
