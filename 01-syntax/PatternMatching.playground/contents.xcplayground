@@ -6,5 +6,7 @@
         <page name='looping'/>
         <page name='matching-optionals'/>
         <page name='matching-enums-and-associated-values'/>
+        <page name='matching-types'/>
+        <page name='using-where'/>
     </pages>
 </playground>
