@@ -3,5 +3,6 @@
     <pages>
         <page name='Variadic Functions'/>
         <page name='Operator Overloading'/>
+        <page name='Closures'/>
     </pages>
 </playground>
